@@ -17,7 +17,7 @@ let bird = {
   width: 40,
   height: 40,
   gravity: 2, // sabit düşme miktarı
-  lift: 45      // zıplama miktarı
+  lift: 40      // zıplama miktarı
 };
 
 let pipes = [];
